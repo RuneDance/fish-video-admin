@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fish-video-admin.iml" filepath="$PROJECT_DIR$/fish-video-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fish-video-common/fish-video-common.iml" filepath="$PROJECT_DIR$/fish-video-common/fish-video-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fish-video-mapper/fish-video-mapper.iml" filepath="$PROJECT_DIR$/fish-video-mapper/fish-video-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fish-video-mng/fish-video-mng.iml" filepath="$PROJECT_DIR$/fish-video-mng/fish-video-mng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fish-video-pojo/fish-video-pojo.iml" filepath="$PROJECT_DIR$/fish-video-pojo/fish-video-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fish-video-service/fish-video-service.iml" filepath="$PROJECT_DIR$/fish-video-service/fish-video-service.iml" />
+    </modules>
+  </component>
+</project>
