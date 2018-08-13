@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fish-video-mng:war">
+    <output-path>$PROJECT_DIR$/fish-video-mng/target</output-path>
+    <root id="archive" name="fish-video-mng.war">
+      <element id="artifact" artifact-name="fish-video-mng:war exploded" />
+    </root>
+  </artifact>
+</component>
